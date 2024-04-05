@@ -10,10 +10,10 @@
         position: absolute;
         display: block;
         width: 346px;
-        height: 326px;
-        background: #ff0000;
+        height: calc(100% - 60px);
+        background: #0042a0;
         top: 50%;
-        right: -24px;
+        right: 30px;
         transform: translate(0, -50%);
         border-radius: 8px;
     }
